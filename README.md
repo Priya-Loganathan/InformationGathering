@@ -1,5 +1,4 @@
 # InformationGathering
-Information Gathering Techiques
 
 # To perform information gathering techniques
 
@@ -45,11 +44,17 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 ### httprint :
 ![image](https://github.com/Priya-Loganathan/InformationGathering/assets/121166075/7e794e91-f785-4897-bf77-f6b8d5c4e18c)
 
+### ping command :
+![image](https://github.com/Priya-Loganathan/InformationGathering/assets/121166075/cf4c9d02-9863-4571-b766-5cb95bf3e72c)
 
+### ICMP traceroute :
+![image](https://github.com/Priya-Loganathan/InformationGathering/assets/121166075/dfe91492-8442-4b73-9fd6-180082b56491)
 
+### TCP traceroute :
+![image](https://github.com/Priya-Loganathan/InformationGathering/assets/121166075/91a29e6c-7418-4977-8188-aa6ea46a6fdc)
 
-
-
+### UDP traceroute :
+![image](https://github.com/Priya-Loganathan/InformationGathering/assets/121166075/18c049b4-2441-46d8-95bd-5997c16950b9)
 
 ## RESULT:
-The information gathering techniques tools/procedure were  identified successfully
+The information gathering techniques tools/procedure were  identified successfully.
